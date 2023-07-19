@@ -1,0 +1,27 @@
+# ninja log v5
+11	257	7037663453808480	CMakeFiles/p_lab4.dir/virtual.cpp.obj	56b879dcbf5d8090
+1	667	7037663457918472	CMakeFiles/p_lab4.dir/main.cpp.obj	420ce3ef1d3ae307
+669	1073	7037663461948429	p_lab4.exe	ac12ca2dd94fea0b
+13	192	7037667750010039	CMakeFiles/p_lab4.dir/virtual.cpp.obj	56b879dcbf5d8090
+4	630	7037667786094272	CMakeFiles/p_lab4.dir/main.cpp.obj	420ce3ef1d3ae307
+631	802	7037667787765926	p_lab4.exe	ac12ca2dd94fea0b
+13	177	7037668778233525	CMakeFiles/p_lab4.dir/virtual.cpp.obj	56b879dcbf5d8090
+4	665	7037668783103508	CMakeFiles/p_lab4.dir/main.cpp.obj	420ce3ef1d3ae307
+666	835	7037668784763519	p_lab4.exe	ac12ca2dd94fea0b
+5	619	7037668868419277	CMakeFiles/p_lab4.dir/main.cpp.obj	420ce3ef1d3ae307
+620	784	7037668870039246	p_lab4.exe	ac12ca2dd94fea0b
+5	619	7037669136555197	CMakeFiles/p_lab4.dir/main.cpp.obj	420ce3ef1d3ae307
+620	789	7037669138195148	p_lab4.exe	ac12ca2dd94fea0b
+24	513	7037816352847336	CMakeFiles/p_lab4.dir/virtual.cpp.obj	56b879dcbf5d8090
+8	1822	7037816365947245	CMakeFiles/p_lab4.dir/main.cpp.obj	420ce3ef1d3ae307
+1824	2489	7037816372477577	p_lab4.exe	ac12ca2dd94fea0b
+7	1619	7037817287633279	CMakeFiles/p_lab4.dir/main.cpp.obj	420ce3ef1d3ae307
+1621	1971	7037817291023260	p_lab4.exe	ac12ca2dd94fea0b
+17	720	7037839096471708	CMakeFiles/p_lab4.dir/virtual.cpp.obj	56b879dcbf5d8090
+6	1944	7037839108740782	CMakeFiles/p_lab4.dir/main.cpp.obj	420ce3ef1d3ae307
+1945	2349	7037839112770740	p_lab4.exe	ac12ca2dd94fea0b
+17	265	7037839557311398	CMakeFiles/p_lab4.dir/virtual.cpp.obj	56b879dcbf5d8090
+8	1006	7037839564733929	CMakeFiles/p_lab4.dir/main.cpp.obj	420ce3ef1d3ae307
+1007	1167	7037839566283900	p_lab4.exe	ac12ca2dd94fea0b
+6	220	7037839994326572	CMakeFiles/p_lab4.dir/virtual.cpp.obj	56b879dcbf5d8090
+221	408	7037839996096665	p_lab4.exe	ac12ca2dd94fea0b

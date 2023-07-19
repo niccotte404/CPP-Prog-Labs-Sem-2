@@ -1,0 +1,7 @@
+# ninja log v5
+1	887	7061497284074868	CMakeFiles/lab_7.dir/buffer.cpp.obj	ae1bd9162066fc57
+10	1041	7061497285644851	CMakeFiles/lab_7.dir/main.cpp.obj	aadff5928148f86c
+1042	1676	7061497291953744	lab_7.exe	ff1f82d76cc88c14
+20	443	7061498082752892	CMakeFiles/lab_7.dir/buffer.cpp.obj	ae1bd9162066fc57
+31	565	7061498083992910	CMakeFiles/lab_7.dir/main.cpp.obj	aadff5928148f86c
+565	704	7061498085342929	lab_7.exe	ff1f82d76cc88c14
